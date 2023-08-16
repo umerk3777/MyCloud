@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/l41YvpiA9uMWw5AMU/giphy.gif)](https://rishavchanda.io)
+[![MasterHead](https:)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm pathan umer</h1>
 <h3 align="center">power of data and drive innovation. #Big-DataTechAdventures 🌐📊</h3>
 <img align="right" alt="BigData" width="400" src="https://th.bing.com/th/id/OIP.iMeNF7ubwgLtwMH8LrOPMgHaEw?w=291&h=187&c=7&r=0&o=5&pid=1.7">
